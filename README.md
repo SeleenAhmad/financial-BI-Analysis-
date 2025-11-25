@@ -26,5 +26,5 @@
 #
 # Insights:
 ## The project provides actionable insights, such as identifying profitable companies,
-# detecting financial risks, and understanding multi-year trends for strategic decisions.
+## detecting financial risks, and understanding multi-year trends for strategic decisions.
 
